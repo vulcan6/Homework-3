@@ -1,3 +1,2 @@
 # Homework-3
-#The following Zylabs for the requested H3 will be submitted here
-I just figured out how to do this. I'm doing my best ok.
+The following Zylabs requested for H3 will be submitted here
